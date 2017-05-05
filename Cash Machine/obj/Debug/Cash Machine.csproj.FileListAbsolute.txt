@@ -1,0 +1,6 @@
+D:\C# files\Cash Machine\Cash Machine\bin\Debug\Cash Machine.exe.config
+D:\C# files\Cash Machine\Cash Machine\bin\Debug\Cash Machine.exe
+D:\C# files\Cash Machine\Cash Machine\bin\Debug\Cash Machine.pdb
+D:\C# files\Cash Machine\Cash Machine\obj\Debug\Cash Machine.csprojResolveAssemblyReference.cache
+D:\C# files\Cash Machine\Cash Machine\obj\Debug\Cash Machine.exe
+D:\C# files\Cash Machine\Cash Machine\obj\Debug\Cash Machine.pdb
